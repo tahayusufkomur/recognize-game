@@ -74,7 +74,7 @@ def write_dict_to_file(dictionary, file_name):
     with open(file_name, 'w') as f:
            for key, value in dictionary.items():
                  f.write(str(key)+ '='+ str(value))
-            f.close()
+    f.close()
 
 print ("""Menu
 1. Add a word with =
