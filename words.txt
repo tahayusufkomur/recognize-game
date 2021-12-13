@@ -1,0 +1,4 @@
+interpretation = tercüme
+influential = etkili
+stresses = vurgular
+existence = varoluş
